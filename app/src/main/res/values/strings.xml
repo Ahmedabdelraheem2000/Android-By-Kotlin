@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="well_go_to_sshool">Well Go To Sshool</string>
+    <string name="go_on">Go On</string>
+    <string name="todo">TODO</string>
+    <string name="email">email</string>
+    <string name="discover_your_ndream_job_here">Discover Your \nDream Job Here</string>
+    <string name="explore_all_the_most_exiting_njob_roles_based_on_your_interest">Explore all the most exiting \njob roles based on your interest</string>
+    <string name="password">password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last_name</string>
+    <string name="log_out">Log Out</string>
+    <string name="hello_welcom_back">Hello Welcom Back</string>
+</resources>
